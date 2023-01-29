@@ -1,0 +1,47 @@
+.container{
+    background-color: black;
+    width: 1200px;
+    height: 1200px;
+    border: 5px solid gray;
+}
+.header{
+    color: white;
+    font-size: 30px;
+    font-stretch: condensed;
+    margin: 10px;
+    padding-top: 20px;
+}
+.body{
+    color: gray;
+}
+.name{
+    background-color: black;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 1180px;
+    color: gray;
+    height: 60px;
+    font-size: 30px;
+    padding: 10px;
+}
+.tnn{
+    height: 60px;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.check{
+    font-size: 35px;
+    padding-left: 10px;
+}
+.footer{
+    margin-top: 60px;
+    padding-left: 10px;
+    width: 1180px;
+   height: 60px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
